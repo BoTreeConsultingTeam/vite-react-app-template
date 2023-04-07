@@ -1,9 +1,9 @@
 version: '3.8'
 services:
   app:
-    container_name: shairu-website-dev-frontend
+    container_name: template
     #change the container name as per your porject
-    image: shairu-website-dev
+    image: template-v1
     # change the image name as per your poject
     environment:
       #add project level env variables
