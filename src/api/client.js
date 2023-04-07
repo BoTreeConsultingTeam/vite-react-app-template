@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { messages } from '../constants';
+import { messages } from '../constants/message';
 import { getToken, getBaseURL, showToastError } from '../utility/common';
 
 axios.defaults.headers = {
