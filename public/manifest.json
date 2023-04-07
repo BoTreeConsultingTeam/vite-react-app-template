@@ -1,6 +1,7 @@
 {
-  "short_name": "Shairu Website",
-  "name": "Shairu Website",
+  "short_name": "",
+  // add you project name and shot name
+  "name": "",
   "icons": [
     {
       "src": "images/favicon.ico",
